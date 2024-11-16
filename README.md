@@ -10,7 +10,7 @@ Android Studio(Min. required Artic Fox)
 ## ALGORITHM:
 Step 1: Open Android Studio and then click on File -> New -> New project.
 
-Step 2: Then type the Application name as SMSIntent and click Next.
+Step 2: Then type the Application name as checkbox and click Next.
 
 Step 3: Select the Minimum SDK below and click Next.
 
@@ -21,7 +21,6 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Once the Selected check box displayed to the user processed in MainActivity.java
 
 Step 7: Save and run the application.
-
 
 ## Program:
  ```
